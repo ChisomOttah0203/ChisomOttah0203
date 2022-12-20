@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChisomOttah0203
-- 👀 I’m interested in data analysis and writing 
+- 👀 I’m a Technical Recruiter who is also very much interested in AI and Data Science
 - 🌱 I’m currently learning python and R programming language
 
 <!---
